@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -327,7 +327,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-tommar4-598x213-359x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -556,7 +556,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-tommar4-598x213-359x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
