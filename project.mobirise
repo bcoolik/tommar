@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "oferta.html",
+    "currentPage": "kontakt.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -58,7 +58,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Firma <b>TOMMAR</b> T.Kulik &nbsp; &nbsp;&nbsp;<b>Częstochowa</b>: ul. Glogera 3, t: 34 324 38 14, k: 696 944 524 &nbsp; &nbsp; <b>Radomsko</b>: ul.Piłsudskiego 59, t: 44 788 22 96, k: 602 388 472 &nbsp; &nbsp; <b>mail</b>: tommar.czest@gmail.com"
         },
         {
           "_tags": [
@@ -248,7 +248,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Firma <b>TOMMAR</b> T.Kulik &nbsp; &nbsp;&nbsp;<b>Częstochowa</b>: ul. Glogera 3, t: 34 324 38 14, k: 696 944 524 &nbsp; &nbsp; <b>Radomsko</b>: ul.Piłsudskiego 59, t: 44 788 22 96, k: 602 388 472 &nbsp; &nbsp; <b>mail</b>: tommar.czest@gmail.com"
         },
         {
           "_inherit": "menu",
@@ -477,7 +477,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Firma <b>TOMMAR</b> T.Kulik &nbsp; &nbsp;&nbsp;<b>Częstochowa</b>: ul. Glogera 3, t: 34 324 38 14, k: 696 944 524 &nbsp; &nbsp; <b>Radomsko</b>: ul.Piłsudskiego 59, t: 44 788 22 96, k: 602 388 472 &nbsp; &nbsp; <b>mail</b>: tommar.czest@gmail.com"
         },
         {
           "_inherit": "menu",
