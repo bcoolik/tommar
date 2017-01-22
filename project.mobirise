@@ -577,7 +577,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "font-size": "24px",
+              "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -603,7 +603,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY DLA &nbsp;POJAZDÓW SPECJALNYCH",
                 "showText": true,
-                "text": "Lampy pojedyncze, Lampy zespolone, Lampy kierunkowe, Lampy reklamowe i taxi, Lampy robocze i szperacze, Belki świetlne, Listwy LED, Panele iformacyjne, Generatory...<br>",
+                "text": "<span style=\"font-style: normal;\">Lampy pojedyncze, Lampy zespolone, Lampy kierunkowe, Lampy reklamowe i taxi,</span><br><span style=\"font-style: normal;\"> Lampy robocze i szperacze, Belki świetlne, Listwy LED, Generatory...</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"d\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -617,7 +617,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY BHP",
                 "showText": true,
-                "text": "Fotoluminescencyjne oznakowania ewakuacyjne i przeciwpożarowe,&nbsp;Tablice i znaki ostrzegawcze,&nbsp;Instrkcje stanowiskowe,&nbsp;Odzież ochronna, Odzież gastronomiczna...<br>",
+                "text": "<span style=\"font-style: normal;\">Oznakowania ewakuacyjne i przeciwpożarowe,&nbsp;Tablice i znaki ostrzegawcze,&nbsp;</span><br><span style=\"font-style: normal;\">Instrkcje stanowiskowe,&nbsp;Odzież ochronna, Odzież gastronomiczna...</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"e\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -631,7 +631,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY PRZECIWPOŻAROWE",
                 "showText": true,
-                "text": "Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice,&nbsp;Klucze,&nbsp;Rozdzielacze,&nbsp;Łączniki do węży,&nbsp;Nasady hydrantowe, Hydranty,&nbsp;Pokrywy...<br>",
+                "text": "<span style=\"font-style: normal;\">Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice, Rozdzielacze,&nbsp;</span><br><span style=\"font-style: normal;\">Łączniki do węży,&nbsp;Nasady hydrantowe, Hydranty,&nbsp;Pokrywy...</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"f\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -645,7 +645,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY RUCHU DROGOWEGO",
                 "showText": true,
-                "text": "Znaki drogowe,&nbsp;Kamizelki ostrzegawcze,&nbsp;Lustra drogowe, przemysłowe,&nbsp;Bariery drogowe,&nbsp;Słupki drogowe,&nbsp;Pachołki drogowe,&nbsp;Blokady parkingowe,&nbsp;Wygrodzenia...<br>",
+                "text": "<span style=\"font-style: normal;\">Znaki drogowe,&nbsp;Lustra drogowe i przemysłowe,&nbsp;Bariery drogowe,&nbsp;</span><br><span style=\"font-style: normal;\">Słupki drogowe,&nbsp;Pachołki drogowe,&nbsp;Blokady parkingowe,&nbsp;Wygrodzenia...</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=0B-Af7SBJxdoCLVdFeDNBMzd2Rjlxc0doN3FWeGpzdFNDYmdr\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               }
