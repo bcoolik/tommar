@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "oferta.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.11",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -206,7 +206,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-tommar4-598x213-359x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -415,28 +415,14 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            "SPAN": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            "B": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "contacts1-8",
+          "_anchor": "contacts1-t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b0680",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -444,7 +430,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-tommar-bea-ramki-128x53.png",
+              "src": "@PROJECT_PATH@/assets/images/smartphone-1132677-960-128x128.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -458,8 +444,8 @@
               "size": 0
             }
           },
-          "text1": "<b>Częstochowa</b> <br>Ul. Glogera 3<br>T: 34 324 38 14<br>K: 696 944 524<br>",
-          "text2": "<b>Radomsko</b> <br>Ul. Piłsudskiego 59<br>T: 44 788 22 96<br>K: 602 388 472",
+          "text1": "<strong>Addres</strong><br>Częstochowa<br>ul. Glogera 3<br><br>Radomsko<br>ul. Piłsudskiego 59",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>T: 34 324 38 14<br>K: +48 696 944 524<br><br>T: 44 788 22 96<br>K: +48 602 388 472",
           "text3": "<br><br>tommar.czest@gmail.com<br>www.tommar.czest.pl"
         }
       ]
@@ -591,7 +577,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "font-size": "36px",
+              "font-size": "30px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
