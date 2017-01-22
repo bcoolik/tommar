@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "oferta.html",
+    "currentPage": "kontakt.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -384,18 +384,18 @@
           "form": {
             "action": "tommar.czest@gmail.com",
             "alerts": {
-              "success": "Dziekujemy!"
+              "success": "Dziękujemy!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Imię*"
+                "customTitle": "Imię i nazwisko*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Nazwisko*"
+                "customTitle": "Email*"
               },
               "phone": {
                 "title": "Phone",
