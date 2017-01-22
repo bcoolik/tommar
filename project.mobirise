@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "oferta.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -603,7 +603,7 @@
                 "showTitle": true,
                 "title": "OZNAKOWANIE POJAZDÓW SPECJALNYCH",
                 "showText": true,
-                "text": "Lampy pojedyncze, Lampy zespolone, Lampy kierunkowe, Lampy reklamowe i taxi, Lampy robocze i szperacze, Belki świetlne, Listwy LED, Panele iformacyjne, Generatory i głośniki, Akcesoria, Akcesoria samochodowe, Źródła światła<br>",
+                "text": "Lampy pojedyncze, Lampy zespolone, Lampy kierunkowe, Lampy reklamowe i taxi, Lampy robocze i szperacze, Belki świetlne, Listwy LED, Panele iformacyjne, Generatory...<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"d\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -617,7 +617,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY BHP",
                 "showText": true,
-                "text": "Fotoluminescencyjne oznakowania ewakuacyjne i przeciwpożarowe ,Tablice urządzeń energetycznych,&nbsp;Tablice i znaki ostrzegawcze,&nbsp;Instrkcje stanowiskowe,&nbsp;Systemy informacji wizualnej,&nbsp;Odzież medyczna / Fartuchy,&nbsp;Odzież gastronomiczna,&nbsp;Odzież krótkiego użytkowania,&nbsp;Odzież robocza,&nbsp;Odzież ochronna - spacjalistyczna,&nbsp;Obuwie ochronne,&nbsp;Ochrona wzroku, głowy i słuchu<br>",
+                "text": "Fotoluminescencyjne oznakowania ewakuacyjne i przeciwpożarowe,&nbsp;Tablice i znaki ostrzegawcze,&nbsp;Instrkcje stanowiskowe,&nbsp;Odzież ochronna, Odzież gastronomiczna...<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"e\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -631,7 +631,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY PRZECIWPOŻAROWE",
                 "showText": true,
-                "text": "Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice,&nbsp;Klucze,&nbsp;Rozdzielacze,&nbsp;Łączniki do węży,&nbsp;Nasady hydrantowe,&nbsp;Pokrywy hydrantowe,&nbsp;Przełączniki,&nbsp;Pokrywy nasad,&nbsp;Hydranty<br>",
+                "text": "Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice,&nbsp;Klucze,&nbsp;Rozdzielacze,&nbsp;Łączniki do węży,&nbsp;Nasady hydrantowe, Hydranty,&nbsp;Przełączniki,&nbsp;Pokrywy...<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"f\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -645,7 +645,7 @@
                 "showTitle": true,
                 "title": "BEZPIECZEŃSTWO RUCHU DROGOWEGO",
                 "showText": true,
-                "text": "Znaki drogowe,&nbsp;Kamizelki ostrzegawcze,&nbsp;Lustra drogowe, przemysłowe,&nbsp;Bariery drogowe,&nbsp;Słupki drogowe,&nbsp;Pachołki drogowe,&nbsp;Blokady parkingowe,&nbsp;Wygrodzenia budowlane,&nbsp;Odblaski,&nbsp;Lampy i sygnalizatory drogowe,&nbsp;Oznakowanie hal i magazynów,&nbsp;Mała architektura miejska,&nbsp;Usługi oznakowania<br>",
+                "text": "Znaki drogowe,&nbsp;Kamizelki ostrzegawcze,&nbsp;Lustra drogowe, przemysłowe,&nbsp;Bariery drogowe,&nbsp;Słupki drogowe,&nbsp;Pachołki drogowe,&nbsp;Blokady parkingowe,&nbsp;Wygrodzenia...<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=0B-Af7SBJxdoCLVdFeDNBMzd2Rjlxc0doN3FWeGpzdFNDYmdr\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               }
