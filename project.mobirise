@@ -577,7 +577,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "font-size": "30px",
+              "font-size": "24px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -601,7 +601,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "OZNAKOWANIE POJAZDÓW SPECJALNYCH",
+                "title": "ARTYKUŁY DLA &nbsp;POJAZDÓW SPECJALNYCH",
                 "showText": true,
                 "text": "Lampy pojedyncze, Lampy zespolone, Lampy kierunkowe, Lampy reklamowe i taxi, Lampy robocze i szperacze, Belki świetlne, Listwy LED, Panele iformacyjne, Generatory...<br>",
                 "showButtons": true,
@@ -631,7 +631,7 @@
                 "showTitle": true,
                 "title": "ARTYKUŁY PRZECIWPOŻAROWE",
                 "showText": true,
-                "text": "Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice,&nbsp;Klucze,&nbsp;Rozdzielacze,&nbsp;Łączniki do węży,&nbsp;Nasady hydrantowe, Hydranty,&nbsp;Przełączniki,&nbsp;Pokrywy...<br>",
+                "text": "Gaśnice,&nbsp;Koce gaśnicze,&nbsp;Zawory,&nbsp;Smoki ssawne,&nbsp;Prądownice,&nbsp;Klucze,&nbsp;Rozdzielacze,&nbsp;Łączniki do węży,&nbsp;Nasady hydrantowe, Hydranty,&nbsp;Pokrywy...<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"f\" data-toolbar=\"-mbrBtnMove\">KATALOG</a> "
               },
@@ -643,7 +643,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "BEZPIECZEŃSTWO RUCHU DROGOWEGO",
+                "title": "ARTYKUŁY RUCHU DROGOWEGO",
                 "showText": true,
                 "text": "Znaki drogowe,&nbsp;Kamizelki ostrzegawcze,&nbsp;Lustra drogowe, przemysłowe,&nbsp;Bariery drogowe,&nbsp;Słupki drogowe,&nbsp;Pachołki drogowe,&nbsp;Blokady parkingowe,&nbsp;Wygrodzenia...<br>",
                 "showButtons": true,
