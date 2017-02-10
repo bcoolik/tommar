@@ -429,6 +429,16 @@ h6,
 #msg-box5-1 .btn {
   font-family: 'Raleway', sans-serif;
 }
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c SPAN {
+  text-align: center;
+}
+#header3-1c H3 {
+  text-align: right;
+}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -449,11 +459,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-2 .link {
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 #ext_menu-2 .dropdown-item,
 #ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.758rem;
 }
 #ext_menu-2 .link:hover,
 #ext_menu-2 .dropdown-item:hover,
@@ -492,6 +502,25 @@ h6,
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #2b0680!important;
 }
+#features4-15 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-15 .iconbox {
+  background-color: #3d8eb9;
+  border-color: #3d8eb9;
+}
+#features4-15 .card-subtitle SPAN {
+  color: #7c7c7c;
+}
+#contacts2-1d STRONG {
+  color: #000000;
+}
+#contacts2-1d P {
+  color: #5b5b5b;
+}
+#contacts2-1d UL {
+  color: #2b0680;
+}
 
 
 
@@ -519,11 +548,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-5 .link {
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 #ext_menu-5 .dropdown-item,
 #ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.758rem;
 }
 #ext_menu-5 .link:hover,
 #ext_menu-5 .dropdown-item:hover,
@@ -571,9 +600,19 @@ h6,
 }
 #form1-b SMALL {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 #form1-b .btn {
   font-family: 'Raleway', sans-serif;
+}
+#contacts2-1d STRONG {
+  color: #000000;
+}
+#contacts2-1d P {
+  color: #5b5b5b;
+}
+#contacts2-1d UL {
+  color: #2b0680;
 }
 
 
@@ -601,11 +640,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-d .link {
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 #ext_menu-d .dropdown-item,
 #ext_menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.758rem;
 }
 #ext_menu-d .link:hover,
 #ext_menu-d .dropdown-item:hover,
@@ -652,4 +691,96 @@ h6,
 #slider-f P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+}
+#features2-1l .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #efefef;
+}
+#features2-1l .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features2-1l .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #5b5b5b;
+}
+#features2-1l .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+}
+#contacts2-1d STRONG {
+  color: #000000;
+}
+#contacts2-1d P {
+  color: #5b5b5b;
+}
+#contacts2-1d UL {
+  color: #2b0680;
+}
+
+#footer1-w P {
+  color: #ffffff;
+}
+#ext_menu-x .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-x .navbar-caption {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-x .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-x .close-icon::before,
+#ext_menu-x .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-x .link,
+#ext_menu-x .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-x .link {
+  font-size: 0.7rem;
+}
+#ext_menu-x .dropdown-item,
+#ext_menu-x .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#ext_menu-x .link:hover,
+#ext_menu-x .dropdown-item:hover,
+#ext_menu-x .link:focus,
+#ext_menu-x .dropdown-item:focus {
+  color: #2b0680;
+}
+#ext_menu-x .link[aria-expanded="true"],
+#ext_menu-x .dropdown-menu {
+  background: #1b044f;
+}
+#ext_menu-x .nav-dropdown-sm .link:focus,
+#ext_menu-x .nav-dropdown-sm .link:hover,
+#ext_menu-x .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-x .nav-dropdown-sm .dropdown-item:hover {
+  background: #260571!important;
+}
+#ext_menu-x .navbar,
+#ext_menu-x .nav-dropdown-sm,
+#ext_menu-x .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-x .nav-dropdown-sm .dropdown-menu {
+  background: #2b0680;
+}
+#ext_menu-x .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-x .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-x .bg-color.transparent.opened .link:hover,
+#ext_menu-x .bg-color.transparent.opened .link:focus {
+  color: #2b0680;
+}
+#ext_menu-x .link[aria-expanded="true"],
+#ext_menu-x .dropdown-item[aria-expanded="true"] {
+  color: #2b0680!important;
+}
+#msg-box3-1o .mbr-section-title,
+#msg-box3-1o p {
+  color: #000;
 }
